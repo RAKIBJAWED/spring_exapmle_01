@@ -1,0 +1,6 @@
+app:
+  datasource:
+    jdbc-url: jdbc:mysql://localhost:3306/spring_tutorial
+    username: 1513177
+    password: 1513177
+    pool-size: 30
